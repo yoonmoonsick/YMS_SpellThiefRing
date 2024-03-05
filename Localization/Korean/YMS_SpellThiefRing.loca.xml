@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h6a60d987eeeb4eb9915672606f4bd16efcaf" version="2">주문 도둑 반지</content>
+	<content contentuid="h9159ec56cbcb4c52b09f2130b09403c1ed04" version="2">그저 주문 도둑의 반지 버전입니다.</content>
+	<content contentuid="h2cce80251be64708b80518bfa8e3e75c2fb1" version="2">전투당 한 번, 무기로 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;를 가하면 1레벨 &lt;LSTag Tooltip="SpellSlot"&gt;주문 슬롯&lt;/LSTag&gt; 하나가 회복됩니다.</content>
+</contentList>

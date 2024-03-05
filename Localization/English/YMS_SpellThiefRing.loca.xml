@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h6a60d987eeeb4eb9915672606f4bd16efcaf" version="2">Ring of the Spellthief</content>
+	<content contentuid="h9159ec56cbcb4c52b09f2130b09403c1ed04" version="2">It's just a ring version of the Spellthief.</content>
+	<content contentuid="h2cce80251be64708b80518bfa8e3e75c2fb1" version="2">Once per combat, you regain a Level 1 &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; when you land a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with the weapon.</content>
+</contentList>
